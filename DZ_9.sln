@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "пример0", "задача1\пример0.csproj", "{E1F83876-1C07-45E8-935A-F6A021E6698B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "пример1", "задача2\пример1.csproj", "{CC4B0B6E-5C95-48FE-A95B-FF550B37FC28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "пример1 (1)", "задача3\пример1.csproj", "{00D2D29C-A00C-45DC-BA95-1F3CF577C5DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1F83876-1C07-45E8-935A-F6A021E6698B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F83876-1C07-45E8-935A-F6A021E6698B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F83876-1C07-45E8-935A-F6A021E6698B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F83876-1C07-45E8-935A-F6A021E6698B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC4B0B6E-5C95-48FE-A95B-FF550B37FC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4B0B6E-5C95-48FE-A95B-FF550B37FC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4B0B6E-5C95-48FE-A95B-FF550B37FC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4B0B6E-5C95-48FE-A95B-FF550B37FC28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D2D29C-A00C-45DC-BA95-1F3CF577C5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D2D29C-A00C-45DC-BA95-1F3CF577C5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D2D29C-A00C-45DC-BA95-1F3CF577C5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D2D29C-A00C-45DC-BA95-1F3CF577C5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6553B911-F775-4F0E-81F0-1339B877D3BE}
+	EndGlobalSection
+EndGlobal

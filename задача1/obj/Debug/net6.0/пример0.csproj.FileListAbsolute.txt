@@ -1,0 +1,45 @@
+C:\Users\админ\Desktop\Учеба\Введение в языки программирования_практика\Урок 2_практика\пример0\bin\Debug\net6.0\пример0.exe
+C:\Users\админ\Desktop\Учеба\Введение в языки программирования_практика\Урок 2_практика\пример0\bin\Debug\net6.0\пример0.deps.json
+C:\Users\админ\Desktop\Учеба\Введение в языки программирования_практика\Урок 2_практика\пример0\bin\Debug\net6.0\пример0.runtimeconfig.json
+C:\Users\админ\Desktop\Учеба\Введение в языки программирования_практика\Урок 2_практика\пример0\bin\Debug\net6.0\пример0.dll
+C:\Users\админ\Desktop\Учеба\Введение в языки программирования_практика\Урок 2_практика\пример0\bin\Debug\net6.0\пример0.pdb
+C:\Users\админ\Desktop\Учеба\Введение в языки программирования_практика\Урок 2_практика\пример0\obj\Debug\net6.0\пример0.csproj.AssemblyReference.cache
+C:\Users\админ\Desktop\Учеба\Введение в языки программирования_практика\Урок 2_практика\пример0\obj\Debug\net6.0\пример0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\админ\Desktop\Учеба\Введение в языки программирования_практика\Урок 2_практика\пример0\obj\Debug\net6.0\пример0.AssemblyInfoInputs.cache
+C:\Users\админ\Desktop\Учеба\Введение в языки программирования_практика\Урок 2_практика\пример0\obj\Debug\net6.0\пример0.AssemblyInfo.cs
+C:\Users\админ\Desktop\Учеба\Введение в языки программирования_практика\Урок 2_практика\пример0\obj\Debug\net6.0\пример0.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\Учеба\Введение в языки программирования_практика\Урок 2_практика\пример0\obj\Debug\net6.0\пример0.dll
+C:\Users\админ\Desktop\Учеба\Введение в языки программирования_практика\Урок 2_практика\пример0\obj\Debug\net6.0\refint\пример0.dll
+C:\Users\админ\Desktop\Учеба\Введение в языки программирования_практика\Урок 2_практика\пример0\obj\Debug\net6.0\пример0.pdb
+C:\Users\админ\Desktop\Учеба\Введение в языки программирования_практика\Урок 2_практика\пример0\obj\Debug\net6.0\пример0.genruntimeconfig.cache
+C:\Users\админ\Desktop\Учеба\Введение в языки программирования_практика\Урок 2_практика\пример0\obj\Debug\net6.0\ref\пример0.dll
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования_Dz\DZ_6\задача1\obj\Debug\net6.0\пример0.csproj.AssemblyReference.cache
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования_Dz\DZ_6\задача1\obj\Debug\net6.0\пример0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования_Dz\DZ_6\задача1\obj\Debug\net6.0\пример0.AssemblyInfoInputs.cache
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования_Dz\DZ_6\задача1\obj\Debug\net6.0\пример0.AssemblyInfo.cs
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования_Dz\DZ_6\задача1\obj\Debug\net6.0\пример0.csproj.CoreCompileInputs.cache
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования_Dz\DZ_6\задача1\obj\Debug\net6.0\пример0.dll
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования_Dz\DZ_6\задача1\obj\Debug\net6.0\refint\пример0.dll
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования_Dz\DZ_6\задача1\obj\Debug\net6.0\пример0.pdb
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования_Dz\DZ_6\задача1\bin\Debug\net6.0\пример0.exe
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования_Dz\DZ_6\задача1\bin\Debug\net6.0\пример0.deps.json
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования_Dz\DZ_6\задача1\bin\Debug\net6.0\пример0.runtimeconfig.json
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования_Dz\DZ_6\задача1\bin\Debug\net6.0\пример0.dll
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования_Dz\DZ_6\задача1\bin\Debug\net6.0\пример0.pdb
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования_Dz\DZ_6\задача1\obj\Debug\net6.0\пример0.genruntimeconfig.cache
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования_Dz\DZ_6\задача1\obj\Debug\net6.0\ref\пример0.dll
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования\Введение в языки программирования_Dz\DZ_9\задача1\bin\Debug\net6.0\пример0.exe
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования\Введение в языки программирования_Dz\DZ_9\задача1\bin\Debug\net6.0\пример0.deps.json
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования\Введение в языки программирования_Dz\DZ_9\задача1\bin\Debug\net6.0\пример0.runtimeconfig.json
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования\Введение в языки программирования_Dz\DZ_9\задача1\bin\Debug\net6.0\пример0.dll
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования\Введение в языки программирования_Dz\DZ_9\задача1\bin\Debug\net6.0\пример0.pdb
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования\Введение в языки программирования_Dz\DZ_9\задача1\obj\Debug\net6.0\пример0.csproj.AssemblyReference.cache
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования\Введение в языки программирования_Dz\DZ_9\задача1\obj\Debug\net6.0\пример0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования\Введение в языки программирования_Dz\DZ_9\задача1\obj\Debug\net6.0\пример0.AssemblyInfoInputs.cache
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования\Введение в языки программирования_Dz\DZ_9\задача1\obj\Debug\net6.0\пример0.AssemblyInfo.cs
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования\Введение в языки программирования_Dz\DZ_9\задача1\obj\Debug\net6.0\пример0.csproj.CoreCompileInputs.cache
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования\Введение в языки программирования_Dz\DZ_9\задача1\obj\Debug\net6.0\пример0.dll
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования\Введение в языки программирования_Dz\DZ_9\задача1\obj\Debug\net6.0\refint\пример0.dll
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования\Введение в языки программирования_Dz\DZ_9\задача1\obj\Debug\net6.0\пример0.pdb
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования\Введение в языки программирования_Dz\DZ_9\задача1\obj\Debug\net6.0\пример0.genruntimeconfig.cache
+C:\Users\Pavlysha\Desktop\Учеба\Введение в языки программирования\Введение в языки программирования_Dz\DZ_9\задача1\obj\Debug\net6.0\ref\пример0.dll
